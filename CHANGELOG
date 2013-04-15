@@ -1,3 +1,5 @@
+* 2013-04-15 - 0.0.6
+- Changed module format to meet puppet style guide
 * 2013-04-07 - 0.0.5
 - up to GitLab 5.0
 - remove gitolite (use gitlab-shell)
